@@ -1,2 +1,2 @@
 # demo-for-know
-this is for learning perpose
+this is for learning perpose for ml project
